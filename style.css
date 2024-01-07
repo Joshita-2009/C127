@@ -12,5 +12,6 @@ body{
 canvas{
     background-color: black;
     border:5px solid whitesmoke ;
+    margin-top:60px;
 }
 
